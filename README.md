@@ -11,6 +11,17 @@ The game is built around the four fundamental mathematical operations:
 
 Players can experience different game modes and challenges designed to train their mental calculation skills, improve reaction speed, and make learning mathematics more engaging.
 
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/1.png)
+
+### Setting
+![Game Mode](screenshots/2png)
+
+
+
 ## Platforms
 
 The game is planned to be developed for multiple platforms:
