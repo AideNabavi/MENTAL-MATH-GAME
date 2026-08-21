@@ -15,10 +15,10 @@ Players can experience different game modes and challenges designed to train the
 ## Screenshots
 
 ### Main Menu
-![Main Menu](ScreenShots/1.png)
+![Main Menu](ScreenShots/2.png)
 
 ### Setting
-![Game Mode](ScreenShots/2png)
+![Game Mode](ScreenShots/1.png)
 
 
 
