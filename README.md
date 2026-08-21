@@ -40,6 +40,5 @@ The game is planned to be developed for multiple platforms:
 * Interactive user interface
 * Multi-language support
 
-## Development
-
-This project is being developed with the goal of creating a fast, simple, and enjoyable way to practice mental mathematics.
+## 
+on the way ...
