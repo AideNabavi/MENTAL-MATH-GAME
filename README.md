@@ -22,7 +22,7 @@ The goal is to create a polished and enjoyable collection of brain games with hi
 
 ---
 
-# 🚀 Development Process
+# 🚀 GAME DEVELOP PROCESS🙂
 
 ![1](./Development_Process/1.png)
 
