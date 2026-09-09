@@ -24,6 +24,8 @@ The goal is to create a polished and enjoyable collection of brain games with hi
 
 # 🚀 GAME DEVELOP PROCESS🙂
 
+![0](./game.png)
+
 ![1](./Development_Process/1.png)
 
 ![2](./Development_Process/2.png)
