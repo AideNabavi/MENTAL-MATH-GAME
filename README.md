@@ -1,3 +1,6 @@
+# 🧠 GAME CLUB
+# 🧠 32 GAME IN CLUB
+# 🧠 WILL BE RELEASED BEFORE 2027
 # 🧠 Mental Math Challenge
 
 > A high-quality collection of 20+ brain games designed to challenge your speed, memory, concentration, calculation, and logical thinking.
