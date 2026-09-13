@@ -1,5 +1,5 @@
 # 🧠 GAME CLUB
-# 🧠 MOTE THAN 40 GAMES IN CLUB
+# 🧠 60 GAMES IN CLUB
 # 🧠 WILL BE RELEASED BEFORE 2027
 # 🧠 Mental Math Challenge
 
